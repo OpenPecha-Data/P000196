@@ -1,0 +1,34 @@
+ebook_metadata:
+  title: ༄༅། །ངོ་མཚར་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  sku: SHE-SHAP-02
+  layers:
+  - book_title
+  - author
+web_metadata:
+  title:
+    en: The Book of Marvelous Emanation
+    bo: ངོ་མཚར་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ།
+  collection:
+    en: Shabkar Series–  Book 2
+    bo: ཞབས་དཀར་གསུང་འབུམ།–  དེབ། ༢
+  author:
+    en: Shabkar Tsokdruk Rangdrol
+    bo: ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SHAP-02
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SHAP-02.epub
+  description:
+    en: ''
+    bo: ''
