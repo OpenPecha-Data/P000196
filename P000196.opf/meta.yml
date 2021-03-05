@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000196
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ངོ་མཚར་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-02
   layers:
   - book_title
   - author
+  id: SHE-SHAP-02
 web_metadata:
   title:
     en: The Book of Marvelous Emanation
